@@ -18,9 +18,9 @@ dependencies {
 ```
 
 ```java
-import top.mrxiaom.qrcode.QRCode;
-import top.mrxiaom.qrcode.enums.ErrorCorrectionLevel;
-import top.mrxiaom.qrcode.utils.ImageUtil;
+import top.worldemeqc.qrcode.QRCode;
+import top.worldemeqc.qrcode.enums.ErrorCorrectionLevel;
+import top.worldemeqc.qrcode.utils.ImageUtil;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
